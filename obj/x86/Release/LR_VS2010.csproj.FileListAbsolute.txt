@@ -1,0 +1,9 @@
+F:\Source2010\Compile\LR_VS2010\LR_VS2010\bin\Release\LR_VS2010.exe
+F:\Source2010\Compile\LR_VS2010\LR_VS2010\bin\Release\LR_VS2010.pdb
+F:\Source2010\Compile\LR_VS2010\LR_VS2010\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Source2010\Compile\LR_VS2010\LR_VS2010\obj\x86\Release\LR_VS2010.LRForm.resources
+F:\Source2010\Compile\LR_VS2010\LR_VS2010\obj\x86\Release\LR_VS2010.Properties.Resources.resources
+F:\Source2010\Compile\LR_VS2010\LR_VS2010\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Source2010\Compile\LR_VS2010\LR_VS2010\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Source2010\Compile\LR_VS2010\LR_VS2010\obj\x86\Release\LR_VS2010.exe
+F:\Source2010\Compile\LR_VS2010\LR_VS2010\obj\x86\Release\LR_VS2010.pdb

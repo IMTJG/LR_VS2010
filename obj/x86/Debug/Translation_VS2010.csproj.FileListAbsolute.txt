@@ -1,0 +1,45 @@
+F:\Source2010\Compile\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.exe
+F:\Source2010\Compile\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.pdb
+F:\Source2010\Compile\Translation_VS2010\LR_VS2010\obj\x86\Debug\ResolveAssemblyReference.cache
+F:\Source2010\Compile\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.LRForm.resources
+F:\Source2010\Compile\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.Properties.Resources.resources
+F:\Source2010\Compile\Translation_VS2010\LR_VS2010\obj\x86\Debug\GenerateResource.read.1.tlog
+F:\Source2010\Compile\Translation_VS2010\LR_VS2010\obj\x86\Debug\GenerateResource.write.1.tlog
+F:\Source2010\Compile\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.exe
+F:\Source2010\Compile\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.pdb
+F:\Powerpoint\Compile\2013\实验资料\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.exe
+F:\Powerpoint\Compile\2013\实验资料\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.pdb
+D:\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.exe
+D:\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.pdb
+D:\3 语法制导翻译\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.exe
+D:\3 语法制导翻译\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.pdb
+D:\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.LRForm.resources
+D:\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.Properties.Resources.resources
+D:\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\GenerateResource.write.1.tlog
+G:\学期\大三\编译原理\实验\3 语法制导翻译\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.exe
+G:\学期\大三\编译原理\实验\3 语法制导翻译\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.pdb
+G:\学期\大三\编译原理\实验\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\Translation_VS2010.csprojAssemblyReference.cache
+G:\学期\大三\编译原理\实验\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.LRForm.resources
+G:\学期\大三\编译原理\实验\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.Properties.Resources.resources
+G:\学期\大三\编译原理\实验\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\Translation_VS2010.csproj.GenerateResource.cache
+G:\学期\大三\编译原理\实验\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\Translation_VS2010.csproj.CoreCompileInputs.cache
+G:\学期\大三\编译原理\实验\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.exe
+G:\学期\大三\编译原理\实验\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.pdb
+C:\Users\Administrator\Desktop\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.exe
+C:\Users\Administrator\Desktop\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.pdb
+C:\Users\Administrator\Desktop\3 语法制导翻译\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.exe
+C:\Users\Administrator\Desktop\3 语法制导翻译\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.pdb
+C:\Users\Administrator\Desktop\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.LRForm.resources
+C:\Users\Administrator\Desktop\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.Properties.Resources.resources
+C:\Users\Administrator\Desktop\3 语法制导翻译\Translation_VS2010\LR_VS2010\obj\x86\Debug\Translation_VS2010.csproj.GenerateResource.Cache
+E:\Engineer\编译原理\第二个实验-编译原理\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.exe
+E:\Engineer\编译原理\第二个实验-编译原理\Translation_VS2010\LR_VS2010\bin\Debug\LR_VS2010.pdb
+E:\Engineer\编译原理\第二个实验-编译原理\Translation_VS2010\LR_VS2010\obj\x86\Debug\Translation_VS2010.csprojAssemblyReference.cache
+E:\Engineer\编译原理\第二个实验-编译原理\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.LR.resources
+E:\Engineer\编译原理\第二个实验-编译原理\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.Properties.Resources.resources
+E:\Engineer\编译原理\第二个实验-编译原理\Translation_VS2010\LR_VS2010\obj\x86\Debug\Translation_VS2010.csproj.GenerateResource.cache
+E:\Engineer\编译原理\第二个实验-编译原理\Translation_VS2010\LR_VS2010\obj\x86\Debug\Translation_VS2010.csproj.CoreCompileInputs.cache
+E:\Engineer\编译原理\第二个实验-编译原理\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.exe
+E:\Engineer\编译原理\第二个实验-编译原理\Translation_VS2010\LR_VS2010\obj\x86\Debug\LR_VS2010.pdb
